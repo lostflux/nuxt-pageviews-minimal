@@ -1,4 +1,4 @@
-<!-- <script lang="ts" setup>
+<script lang="ts" setup>
 const views = await usePageViews()
 </script>
 
@@ -6,4 +6,4 @@ const views = await usePageViews()
   <div>
     <div>Blog views: {{ views }}</div>
   </div>
-</template> -->
+</template>
