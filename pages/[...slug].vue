@@ -1,6 +1,8 @@
 <template>
   <main>
-    <BlogViews />
+    <ClientOnly>
+      <BlogViews />
+    </ClientOnly>
     <ContentDoc />
   </main>
 </template>
