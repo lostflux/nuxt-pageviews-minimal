@@ -1,6 +1,6 @@
 <template>
   <main>
-    <BlogViews />
+    <!-- <BlogViews /> -->
     <ContentDoc />
   </main>
 </template>
